@@ -17,7 +17,7 @@ I'm an AI/ML developer who turns ideas into working products: chatbots that unde
 - **AI / LLM:** LangChain, RAG, NLP, LLM Guardrails
 - **Machine Learning:** Forecasting, Feature Engineering, Data Analysis
 - **Backend:** FastAPI, REST APIs
-- **Tools:** Jupyter Notebook, Git, GitHub
+- **Tools:** Jupyter Notebook, Git, GitHub , Google Colab 
 
 ---
 
